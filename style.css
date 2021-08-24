@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-style: bold;
+}
+#blue{
+    color:#4285f4
+}
+#green{
+    color:#0f9d58
+}
+#red{
+    color:#db4437
+}
+#yellow{
+    color:#F4b400
+}
+body{
+    background-color: lightgray;
+}
+ul{
+    font-size: 24px;
+}
+p{
+    font-size: 20px
+}
+.growth{
+    font-family: 'Courier New', Courier, monospace;
+    background-image: linear-gradient(to right, lightgray, #4286f49a) ;
+}
