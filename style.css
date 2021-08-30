@@ -38,10 +38,18 @@ p{
 }
 .maps{
     background-image: linear-gradient(to right, lightgray, #F4b4009a);
+    font-family: 'Courier New', Courier, monospace;
 }
 .chrome{
     background-image: linear-gradient(to left, lightgray, #4286f49a) ;
+    font-family:sans-serif
 }
 .home{
-    background-image: linear-gradient(to right, lightgray, #0f9d589a)
+    background-image: linear-gradient(to right, lightgray, #0f9d589a);
+    font-family: 'Courier New', Courier, monospace;
+}
+.table{
+    text-align:center;
+    border-style: dashed;
+    border-color: #db4437;
 }
