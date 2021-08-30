@@ -39,3 +39,9 @@ p{
 .maps{
     background-image: linear-gradient(to right, lightgray, #F4b4009a);
 }
+.chrome{
+    background-image: linear-gradient(to left, lightgray, #4286f49a) ;
+}
+.home{
+    background-image: linear-gradient(to right, lightgray, #0f9d589a)
+}
